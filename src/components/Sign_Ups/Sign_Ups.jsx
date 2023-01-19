@@ -23,9 +23,9 @@ function Sign_Ups() {
           <a href="#" className="forget">
             Forget Password?
           </a>
-          <div className="create">
-            <a href="#">Create Your Account</a>
-          </div>
+          <a href="#" className="create">
+            Create Your Account
+          </a>
         </div>
       </div>
     </>
